@@ -9,6 +9,7 @@ Predicts wildfire damage severity using CAL FIRE structural inspection data. Tra
 
 - 🔗 [Live App](https://wildfiredamageprediction-duxhvpdfpga6vvafsrwm5n.streamlit.app/)
 - 📄 [Project Paper (PDF)](https://katrinasuherman.github.io/portfolio/assets/predict_fire_impact.pdf)
+- [View Code](https://katrinasuherman.github.io/portfolio/assets/codewildfire.ipynb)
 
 ---
 
@@ -18,7 +19,7 @@ Predicts wildfire damage severity using CAL FIRE structural inspection data. Tra
 Analyzes nutritional content of 300+ "healthy" recipes scraped from AllRecipes.com. Explores trends in calories, macronutrients, and dietary tags.
 
 - 🔗 [Live Project](https://katrinasuherman.github.io/HealthyRecipeAnalysis/)
-- 💻 [View Code](https://github.com/katrinasuherman/HealthyRecipeAnalysis)
+- 💻 [View Code](https://katrinasuherman.github.io/portfolio/assets/codeishealthy.ipynb)
 
 ---
 
