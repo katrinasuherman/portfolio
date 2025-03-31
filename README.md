@@ -8,7 +8,7 @@ Welcome to my portfolio! This site showcases my data science and machine learnin
 Predicts wildfire damage severity using CAL FIRE structural inspection data. Trained a multi-class classifier to support fire resilience decisions for homeowners and policymakers.
 
 - 🔗 [Live App](https://wildfiredamageprediction-duxhvpdfpga6vvafsrwm5n.streamlit.app/)
-- 📄 [Project Paper (PDF)](https://katrinasuherman.github.io/assets/predict_fire_impact.pdf)
+- 📄 [Project Paper (PDF)](https://katrinasuherman.github.io/portfolio/assets/predict_fire_impact.pdf)
 
 ---
 
