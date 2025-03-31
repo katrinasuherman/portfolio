@@ -23,12 +23,6 @@ Analyzes nutritional content of 300+ "healthy" recipes scraped from AllRecipes.c
 
 ---
 
-## 🛠️ Tech Used in Portfolio Site
-- HTML5 / CSS3
-- Hosted via **GitHub Pages**
-
----
-
 ## 👩🏻‍💻 About Me
 I'm Katrina Suherman, a Data Science student at UC San Diego interested in applying ML to solve climate and sustainability problems.  
 📫 [LinkedIn](https://www.linkedin.com/in/katrinasuherman)
